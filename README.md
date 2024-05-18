@@ -1,6 +1,6 @@
-## Project Announcement: Full Stack eCommerce Website with MERN Stack
+ Full Stack eCommerce Website with MERN Stack
 
-🎉 **Exciting News:** We've completed our full stack eCommerce website using the powerful MERN stack!
+🎉 **Exciting News:** I've completed our full stack eCommerce website using the powerful MERN stack!
 
 ### Features:
 - Front-end with React JS
