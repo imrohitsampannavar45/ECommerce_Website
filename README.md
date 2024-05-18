@@ -1,4 +1,4 @@
-####  Full Stack eCommerce Website with MERN Stack
+#  Full Stack eCommerce Website with MERN Stack
 
 🎉 **Exciting News:** I've completed our full stack eCommerce website using the powerful MERN stack!
 
