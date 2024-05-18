@@ -1,4 +1,4 @@
- Full Stack eCommerce Website with MERN Stack
+####  Full Stack eCommerce Website with MERN Stack
 
 🎉 **Exciting News:** I've completed our full stack eCommerce website using the powerful MERN stack!
 
@@ -11,7 +11,7 @@
 
 ### Getting Started:
 1. **Clone the repository:**
-git clone 
+git clone https://github.com/imrohitsampannavar45/ECommerce_Website.git
 2. **Install dependencies:**
  npm install
 3. **Navigate to the frontend directory:**
@@ -32,7 +32,7 @@ npm run dev
 
  
 ### Repository Link:
-
+https://github.com/imrohitsampannavar45/ECommerce_Website.git
 
 ### Preview:
 <img width="959" alt="image" src="https://github.com/imrohitsampannavar45/ECommerce_Website/assets/88710389/236a157e-60f1-46f8-a56b-594f59f48933">
